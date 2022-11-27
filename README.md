@@ -15,6 +15,7 @@
 
 ```
 bash ./script.sh
+bash ./username.sh shows my name in Latin
 ```
 
 
@@ -56,10 +57,4 @@ int main() {
 | LinkenIn | [Ссылка](https://markdownlivepreview.com/). | 3 часа
 | WhatsApp | [Ссылка](https://markdownlivepreview.com/). | 30 минут
 | Telegram | [Ссылка](https://markdownlivepreview.com/). | 5 минут
-
-#username.sh
-
-Used to show my name in Latin form
-
-
 
