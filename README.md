@@ -1,4 +1,6 @@
-# __stepik-id-printer (h1)__ 
+# __stepik-id-printer (h1)__
+
+<img src="https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/"> 
 
 Это проект для выводв моего персонального идентификатора на образовательной платформе `stepik.org.` 
 
